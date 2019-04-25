@@ -13,6 +13,7 @@
 		D8EEE0C52271549800FCA1DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8EEE0C42271549800FCA1DD /* Assets.xcassets */; };
 		D8EEE0C82271549800FCA1DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8EEE0C62271549800FCA1DD /* LaunchScreen.storyboard */; };
 		D8EEE0D022716C9000FCA1DD /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EEE0CF22716C9000FCA1DD /* RegisterViewController.swift */; };
+		D8EEE0D222718E2400FCA1DD /* WelfareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EEE0D122718E2400FCA1DD /* WelfareViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D8EEE0C72271549800FCA1DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8EEE0C92271549800FCA1DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D8EEE0CF22716C9000FCA1DD /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		D8EEE0D122718E2400FCA1DD /* WelfareViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelfareViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				D8EEE0BF2271549700FCA1DD /* ViewController.swift */,
 				D8EEE0CF22716C9000FCA1DD /* RegisterViewController.swift */,
 				D8EEE0C12271549700FCA1DD /* Main.storyboard */,
+				D8EEE0D122718E2400FCA1DD /* WelfareViewController.swift */,
 				D8EEE0C42271549800FCA1DD /* Assets.xcassets */,
 				D8EEE0C62271549800FCA1DD /* LaunchScreen.storyboard */,
 				D8EEE0C92271549800FCA1DD /* Info.plist */,
@@ -141,6 +144,7 @@
 				D8EEE0D022716C9000FCA1DD /* RegisterViewController.swift in Sources */,
 				D8EEE0C02271549700FCA1DD /* ViewController.swift in Sources */,
 				D8EEE0BE2271549700FCA1DD /* AppDelegate.swift in Sources */,
+				D8EEE0D222718E2400FCA1DD /* WelfareViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
